@@ -41,7 +41,7 @@ If you are starting from this end state repo, use `azd init` to clone this templ
 ```sh
 mkdir my-app
 cd my-app
-azd init -t https://github.com/sabbour/aks-app-template
+azd init -t https://github.com/jodyford-msft/aks-app-template
 ```
 
 ## Deploying infrastructure
